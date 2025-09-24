@@ -23,6 +23,7 @@ const Laptops = () => {
   };
 
 
+  
   return (
     <div className="product-container">
       <h2>Laptops</h2>
