@@ -9,6 +9,7 @@ const Computers = () => {
   const { addToCart } = useCart();
   const navigate = useNavigate();
 
+  
   useEffect(() => {
     const fetchProducts = async () => {
       const data = await getProducts("computers"); // Fetch only computer category
