@@ -17,6 +17,7 @@ const Checkout = () => {
     }
   };
 
+  
   return (
     <div className="checkout-container">
       <h2>Checkout</h2>
